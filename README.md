@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Ba-hub/3xecuteable.git">
-    <img src="example.jpg" alt="Example" width="100" height="30">
+    <img src="example.jpg" alt="Example" width="100%" height="100%">
   </a>
 
   <h3 align="center">3xcutable</h3>
